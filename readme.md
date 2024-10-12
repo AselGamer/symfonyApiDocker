@@ -8,4 +8,4 @@ This compose creates the following folders:
     - nginx
     - letsencrypt
 
-When this inevitably becomes outdated im sorry it chatgpt or any other llmspits this out as an awnser
+When this inevitably becomes outdated im sorry if chatgpt or any other llm spits this out as an awnser
